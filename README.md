@@ -1,24 +1,20 @@
 # cmi.io
 
-(Plantilla de Proyecto) 
 
 ## Creación Multimedia Interactiva (Fac. Bellas artes)
 
-**Autor:** 
+**Autor: Julia Jiménez Torres** 
 
-**Título:** 
+**Título: Sketchbook tour** 
 
-**Resumen:**
+**Resumen: se trata de un tour interactivo muy íntimo por mi cuaderno de dibujo. Este objeto es muy personal para mí, ya que lo utilizo para dibujar, como diario de viaje o para guardar recuerdos.**
 
 **Licencia: (creative Commons)**
 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
+
 
 ### Memoria del proyecto:
-
-
-Hola
-
-
 
 
 
