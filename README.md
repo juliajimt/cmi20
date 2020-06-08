@@ -23,7 +23,7 @@ Probado en: ordenadores Windows y Mac, iPad, móvil.
 
 Tamaño proyecto: ???
 
-Licencia: Licencia Creative Commons Atribución - Compartir Igual 4.0 Internacional.
+Licencia: licencia Creative Commons Atribución - Compartir Igual 4.0 Internacional.
 
 Fecha : 14/06/2020
 
@@ -102,7 +102,7 @@ Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) Podcasting: A new techn
 
 Recursos y materiales audiovisuales:
 
-Musica:
+Música:
    - Música de fondo en el tour: Tranquility - prod. Riddiman (música sin copyright)
    - Música del quiz: Animal Crossing New Leaf Original Soundtrack
    - Botones: sound effects sin copyright.
