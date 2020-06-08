@@ -12,7 +12,8 @@ Resumen: se trata de un tour interactivo muy íntimo por mi cuaderno de dibujo. 
 
 Estilo/género: portfolio, diario personal.
 
-Logotipo: https://ibb.co/9Vb8KH2
+Logotipo:  ![alt text](http://url/to/https://ibb.co/9Vb8KH2) https://ibb.co/9Vb8KH2
+El logotipo muestra a la mascota de la página sobre un cuaderno. Además, el color predominante es el naranja, muy presente en la página.
 
 (insertar imágenes a resolucion de 100px alto)
 
