@@ -13,32 +13,36 @@ Resumen: se trata de un tour interactivo muy íntimo por mi cuaderno de dibujo. 
 Estilo/género: portfolio, diario personal.
 
 Logotipo:  <p align="center"> <img src="Logo.png" width="350"/> </p> 
-
-
-https://ibb.co/9Vb8KH2
 El logotipo muestra a la mascota de la página sobre un cuaderno. Además, el color predominante es el naranja, muy presente en la página.
 
-(insertar imágenes a resolucion de 100px alto)
+Resolución: 800x600px tamaño fijo.
 
-Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+Probado en: ordenadores Windows y Mac, iPad, móvil.
 
-Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+Tamaño proyecto:
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
 
-Tamaño proyecto: 14MB
-
-Licencia Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
-
-Fecha : 14/05/2020
+Fecha : 14/06/2020
 
 Medios (donde se tiene presencia relacionada):
 
-Github:
-Twitter
-Instagram
-girl
+Github: https://juliajimt.github.io
+Instagram: https://www.instagram.com/jalapegno/
 
 2. Memoria del proyecto
 2.1 Storyboard:
+Cuando entras en la página, la mascota del tour te explica cómo navegar por la misma a modo de tutorial. Esta pantalla está inspirada en los cuadros de diálogo presentes en juegos como Pokémon, por ejemplo.
+
+<p align="center"> <img src="captura.jpg" width="600"/> </p>
+
+A continuación, entras en la parte central del proyecto: se trata del tour en el que puedes navegar por las páginas libremente. En algunas páginas hay puntos en los que puedes clickar para aprender datos curiosos sobre alguno de los dibujos de mano de la mascota del tour. También puedes acceder a ''Sobre mí''.
+
+<p align="center"> <img src="captura (2).jpg" width="600"/> </p>
+
+Desde el principio, tienes acceso al reproductor de música en todo momento, exceptuando la parte de ''Sobre mí''. Este menú te lleva a contacto, galería de animaciones y quiz (práctica 3).
+
+<p align="center"> <img src="captura (3).jpg" width="600"/> </p> <p align="center"> <img src="captura (4).jpg" width="600"/> </p> <p align="center"> <img src="captura (5).jpg" width="600"/> </p>
+
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 2.2. Esquema de navegación
