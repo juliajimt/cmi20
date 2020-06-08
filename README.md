@@ -19,18 +19,22 @@ Resolución: 800x600px tamaño fijo.
 
 Probado en: ordenadores Windows y Mac, iPad, móvil.
 
-Tamaño proyecto:
+Tamaño proyecto:???
+
+Licencia:
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
 
 Fecha : 14/06/2020
 
-Medios (donde se tiene presencia relacionada):
+Medios:
 
 Github: https://juliajimt.github.io
 Instagram: https://www.instagram.com/jalapegno/
 
 2. Memoria del proyecto
 2.1 Storyboard:
+
 Cuando entras en la página, la mascota del tour te explica cómo navegar por la misma a modo de tutorial. Esta pantalla está inspirada en los cuadros de diálogo presentes en juegos como Pokémon, por ejemplo.
 
 <p align="center"> <img src="captura.jpg" width="600"/> </p>
@@ -39,17 +43,16 @@ A continuación, entras en la parte central del proyecto: se trata del tour en e
 
 <p align="center"> <img src="captura (2).jpg" width="600"/> </p>
 
-Desde el principio, tienes acceso al reproductor de música en todo momento, exceptuando la parte de ''Sobre mí''. Este menú te lleva a contacto, galería de animaciones y quiz (práctica 3).
+El menú "Sobre mí", aparte de tener información de mi persona, te lleva a contacto, galería de animaciones y quiz (práctica 3).
 
 <p align="center"> <img src="captura (3).jpg" width="600"/> </p> <p align="center"> <img src="captura (4).jpg" width="600"/> </p> <p align="center"> <img src="captura (5).jpg" width="600"/> </p>
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 2.2. Esquema de navegación
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+
+<p align="center"> <img src="Sitemap.jpg" width="600"/> </p>
 
 3. Metodología
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 Etapa 1: Ideación de proyecto
 Investigación de campo (propuestas inspiradoras para el proyecto)
