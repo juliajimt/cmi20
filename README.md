@@ -1,10 +1,10 @@
 SKETCHBOOK TOUR
 
-Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Universidad de Granada
+Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Universidad de Granada.
 
 **1 Datos**
 
-Titulo: Sketchbook tour
+Titulo: Sketchbook tour.
 
 Web: https://juliajimt.github.io
 
@@ -21,9 +21,9 @@ Resolución: 800x600px tamaño fijo.
 
 Probado en: ordenadores Windows y Mac, iPad, móvil.
 
-Tamaño proyecto:???
+Tamaño proyecto: ???
 
-Licencia: Esta obra está bajo una Licencia Creative Commons Atribución-Compartir Igual 4.0 Internacional.
+Licencia: Licencia Creative Commons Atribución - Compartir Igual 4.0 Internacional.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
 
@@ -58,79 +58,72 @@ El menú "Sobre mí", aparte de tener información de mi persona, te lleva a con
 **3. Metodología**
 
 **Etapa 1: Ideación de proyecto**
-Investigación de campo (propuestas inspiradoras para el proyecto)
 
-Portfolio Leonardi Web page para idear cómo organizar el material
-Motivación de la propuesta
+Mi primera idea fue un portfolio, pero se me ocurrió que podía hacer una propuesta más innovadora y opté por hacer un viaje por mi cuaderno. Muchos artistas, especialmente en Instagram, hacen sketchbook tours en formato de vídeo, ya sea en las stories, en el feed o en IGTV. Algunos ejemplos son los sketchbook tours de Estudio Katastrófico o el de IvArt, ambos en Youtube.
 
-Este proyecto es interesante porque ...
+Me pareció algo interesante el integrar al espectador en este tipo de tour, convirtiéndose en algo totalmente interactivo. En estos vídeos, el propio artista explica el contenido que se va mostrando en pantalla, pero en mi proyecto es el propio espectador el que hace click en los botones para obtener la información.
 
-Publico / audiencia
+El proyecto es interesante porque involucra al espectador, es como si él mismo estuviera pasando las páginas de mi cuaderno y aprendiendo sobre mis dibujos. Otros elementos que enriquecen el tour son, por ejemplo, el tutorial inicial, los sonidos a la hora de pasar las páginas o hacer click en los botones, la opción de reproducir música y el apartado de información personal en el que añado una galería de mis animaciones, además de mi información de contacto en la que se puede hacer click para que te lleve directamente a mi correo, LinkedIn, artstation, etc.
 
-Orientado a
+Publico / audiencia: cualquier tipo de audiencia. En el caso del Quiz, está más bien orientado a personas interesadas en el cine y las series.
 
 **Etapa 2: Desarrollo / actividades realizadas**
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+A la idea inicial del tour por las páginas del proyecto se le ha añadido lo siguiente:
+  - Tutorial inicial para aprender los controles básicos, acompañado de una mascota.
+  - Galería de vídeos con mis animaciones.
+  - Botones con sonidos y música de fondo.
+  - Juego con puntuación (quiz de cine), que se corresponde a la práctica 3.
 
-Juego.
-Video
-Instrucciones y ayuda al usuario
-Menús y elementos de navegación (botones)
-etc.
 
 **Etapa 3: Problemas identificados**
 
-(que consideras que no funciona correctamente y por qué )
+Si se pasa muy rápido de una página a otra, puede dar error y saltar a la página que no corresponde. Además, he notado que algunos usuarios piensan que el triángulo parpadeante es donde tienen que pulsar para pasar el diálogo, cuando es el rectángulo en sí (el triángulo es solo decoración que imita el que hay en muchos videojuegos). En el quiz, tuve que optimizar todos los gifs para reducir el tamaño de la película, ya que algunos pesaban varios MB.
 
 **Etapa 4: Conclusiones**
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Crear este proyecto ha sido una experiencia muy enriquecedora. Antes no entendía nada de programación, pero gracias a esta asignatura he aprendido nociones básicas de código Javascript, lo cual puede serme útil algún día. Al principio, sobre todo, me frustraba mucho para conseguir lo que buscaba, pero eso hacía el resultado final muy gratificante.
+
+Es un proyecto que podría mejorarse de muchas maneras, pero creo que cubre muy bien los contenidos que se han dado en la asignatura, puesto que he tratado de añadir todo lo que se iba enseñando en clase. Me gustaría conseguir un aspecto más profesional e incluso subirlo junto al resto de mis dibujos a mis redes sociales en el futuro.
+
+Además, trabajar esta temática me ha dado muchas ideas para hacer mi propio portfolio: quizá incorporo elementos interactivos el día que haga mi portfolio profesional.
 
 **Etapa 5: Referencias**
 
+https://www.youtube.com/watch?v=iPYzevdeHG8
+
+https://www.youtube.com/watch?v=PSV6oLDlBeo
+
+https://www.youtube.com/watch?v=1f2tO9SBDmU
 
 **Artículos y blogs **
 
 Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) Podcasting: A new technology in search of viable business modelsFirst Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+
 Recursos y materiales audiovisuales:
 
 Musica:
-Imágenes:
-Tipografía
-Herramientas utilizadas
+   - Música de fondo en el tour: Tranquility - prod. Riddiman (música sin copyright)
+   - Música del quiz: Animal Crossing New Leaf Original Soundtrack
+   - Botones: sound effects sin copyright.
+
+Imágenes: todas las imágenes, exceptuando los gifs de la práctica 3, son de ideación mía (fotos de mi cuaderno, selfies, animaciones) así como el diseño de la mascota. Estos gifs pertenecen a las siguientes series: Juego de Tronos, La Casa de Papel, Star Wars, Cómo conocí a vuestra madre, Friends, Los Vengadores y El Señor de los Anillos.
+
+Tipografía: Lucida Console (Internet safe).
+
+Herramientas utilizadas:
 
 Hippani Animator 5.1
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
 
-https://creativecommons.org/licenses/?lang=es
+Procreate
 
-Mayo 2020
+Photoshop
 
-
-# cmi.io
-Página web: https://juliajimt.github.io
-
-## Creación Multimedia Interactiva (Fac. Bellas artes)
-
-**Autor: Julia Jiménez Torres** 
-
-**Título: Sketchbook tour** 
-
-**Resumen: se trata de un tour interactivo muy íntimo por mi cuaderno de dibujo. Este objeto es muy personal para mí, ya que lo utilizo para dibujar, como diario de viaje o para guardar recuerdos.**
-
-**Licencia: (creative Commons)**
+Premiere
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
 
 
-### Memoria del proyecto:
-**Mi primera idea fue un portfolio, pero se me ocurrió que podía hacer una propuesta más innovadora y opté por hacer un viaje por mi cuaderno.
-Muchos artistas, especialmente en Instagram, hacen sketchbook tours en formato de vídeo, ya sea en las stories, en el feed o en IGTV. Me pareció algo interesante el integrar al espectador en este tour, convirtiéndose en algo totalmente interactivo.
-Elementos que enriquecen el tour son, por ejemplo, el tutorial inicial, los sonidos a la hora de pasar las páginas o hacer click en los botones (hay uno diferente por cada tipo de botón!), la opción de reproducir música y el apartado de información personal en el que añado una galería de mis animaciones, además de mi información de contacto en la que se puede hacer click para que te lleve directamente a mi correo, LinkedIn, artstation, etc.**
-
-
-### comentarios
-Este documento está por terminar.
+Junio 2020
 
 Ejemplos de otros años: https://github.com/mgea/interart 
