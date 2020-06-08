@@ -12,7 +12,7 @@ Resumen: se trata de un tour interactivo muy íntimo por mi cuaderno de dibujo. 
 
 Estilo/género: portfolio, diario personal.
 
-Logotipo:  <p align="center"> <img src="Logo.png" width="350"/> <img src="your_relative_path_here_number_2_large_name" width="350"/> </p> 
+Logotipo:  <p align="center"> <img src="Logo.png" width="350"/> </p> 
 
 
 https://ibb.co/9Vb8KH2
