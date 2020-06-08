@@ -2,6 +2,7 @@ SKETCHBOOK TOUR
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Universidad de Granada
 
 **1 Datos**
+
 Titulo: Sketchbook tour
 
 Web: https://juliajimt.github.io
@@ -32,8 +33,9 @@ Medios:
 Github: https://juliajimt.github.io
 Instagram: https://www.instagram.com/jalapegno/
 
-**2. Memoria del proyecto
-2.1 Storyboard:**
+**2. Memoria del proyecto**
+
+**2.1 Storyboard:**
 
 Cuando entras en la página, la mascota del tour te explica cómo navegar por la misma a modo de tutorial. Esta pantalla está inspirada en los cuadros de diálogo presentes en juegos como Pokémon, por ejemplo.
 
@@ -65,7 +67,9 @@ Este proyecto es interesante porque ...
 Publico / audiencia
 
 Orientado a
+
 **Etapa 2: Desarrollo / actividades realizadas**
+
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 Juego.
@@ -73,10 +77,13 @@ Video
 Instrucciones y ayuda al usuario
 Menús y elementos de navegación (botones)
 etc.
+
 **Etapa 3: Problemas identificados**
+
 (que consideras que no funciona correctamente y por qué )
 
 **Etapa 4: Conclusiones**
+
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
 **Etapa 5: Referencias**
