@@ -32,6 +32,7 @@ Fecha : 14/06/2020
 Medios:
 
 Github: https://juliajimt.github.io
+
 Instagram: https://www.instagram.com/jalapegno/
 
 **2. Memoria del proyecto**
@@ -70,6 +71,7 @@ Publico / audiencia: cualquier tipo de audiencia. En el caso del Quiz, está má
 **Etapa 2: Desarrollo / actividades realizadas**
 
 A la idea inicial del tour por las páginas del proyecto se le ha añadido lo siguiente:
+
   - Tutorial inicial para aprender los controles básicos, acompañado de una mascota.
   - Galería de vídeos con mis animaciones.
   - Botones con sonidos y música de fondo.
