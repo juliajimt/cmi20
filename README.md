@@ -12,8 +12,7 @@ Resumen: se trata de un tour interactivo muy íntimo por mi cuaderno de dibujo. 
 
 Estilo/género: portfolio, diario personal.
 
-Logotipo: ![alt text](https://raw.githubusercontent.com/juliajimt/juliajimt.github.io/master/assets/to/Logo.png)
-https://raw.githubusercontent.com/juliajimt//master/assets/Logo.png
+Logotipo: https://ibb.co/9Vb8KH2
 
 (insertar imágenes a resolucion de 100px alto)
 
