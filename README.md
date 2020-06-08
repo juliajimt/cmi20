@@ -21,7 +21,7 @@ Probado en: ordenadores Windows y Mac, iPad, móvil.
 
 Tamaño proyecto:???
 
-Licencia:
+Licencia: Esta obra está bajo una Licencia Creative Commons Atribución-Compartir Igual 4.0 Internacional.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
 
@@ -93,7 +93,7 @@ Tipografía
 Herramientas utilizadas
 
 Hippani Animator 5.1
-(imagen de la licencia, copiar y pegar aquí la correcta)
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
 
 https://creativecommons.org/licenses/?lang=es
 
