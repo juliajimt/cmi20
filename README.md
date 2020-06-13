@@ -47,7 +47,7 @@ A continuación, entras en la parte central del proyecto: se trata del tour en e
 
 El menú "Sobre mí", aparte de tener información de mi persona, te lleva a contacto, galería de animaciones y quiz (práctica 3).
 
-<p align="center"> <img src="captura (3).jpg" width="600"/> </p> <p align="center"> <img src="captura (4).jpg" width="600"/> </p> <p align="center"> <img src="captura (5).jpg" width="600"/> </p> <p align="center"> <img src="captura (6).jpg" width="600"/> </p>
+</p> <p align="center"> <img src="captura (4).jpg" width="600"/> </p> <p align="center"> <img src="captura (5).jpg" width="600"/> </p> <p align="center"> <img src="captura (6).jpg" width="600"/> </p>
 
 
 **2.2. Esquema de navegación**
